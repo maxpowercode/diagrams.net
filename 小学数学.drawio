@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net" modified="2023-04-21T06:22:46.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="pXamTX8iiJBdhsCxZk1T" version="20.8.20" type="github">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kk1tNPxJDdmJw3Zyzxyh-1779" value="小学数学" style="swimlane;whiteSpace=wrap;html=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=方正徐静蕾体;fontSource=http%3A%2F%2Fwww.ps3000.com%2Ffonts%2F%25E6%2596%25B9%25E6%25AD%25A3%25E9%259D%2599%25E8%2595%25BE%25E7%25AE%2580%25E4%25BD%2593_%25E5%25BE%2590%25E9%259D%2599%25E8%2595%25BE%25E6%2589%258B%25E5%2586%2599%25E4%25BD%2593.fon;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry y="80" width="1120" height="554" as="geometry">
+            <mxRectangle x="260" y="290" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kk1tNPxJDdmJw3Zyzxyh-1782" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=方正徐静蕾体;fontSource=http%3A%2F%2Fwww.ps3000.com%2Ffonts%2F%25E6%2596%25B9%25E6%25AD%25A3%25E9%259D%2599%25E8%2595%25BE%25E7%25AE%2580%25E4%25BD%2593_%25E5%25BE%2590%25E9%259D%2599%25E8%2595%25BE%25E6%2589%258B%25E5%2586%2599%25E4%25BD%2593.fon;fontSize=36;sketch=1;curveFitting=1;jiggle=2;elbow=vertical;curved=1;" parent="kk1tNPxJDdmJw3Zyzxyh-1779" source="kk1tNPxJDdmJw3Zyzxyh-1780" target="kk1tNPxJDdmJw3Zyzxyh-1781" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kk1tNPxJDdmJw3Zyzxyh-1786" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=方正徐静蕾体;fontSource=http%3A%2F%2Fwww.ps3000.com%2Ffonts%2F%25E6%2596%25B9%25E6%25AD%25A3%25E9%259D%2599%25E8%2595%25BE%25E7%25AE%2580%25E4%25BD%2593_%25E5%25BE%2590%25E9%259D%2599%25E8%2595%25BE%25E6%2589%258B%25E5%2586%2599%25E4%25BD%2593.fon;fontSize=36;elbow=vertical;" parent="kk1tNPxJDdmJw3Zyzxyh-1779" source="kk1tNPxJDdmJw3Zyzxyh-1780" target="kk1tNPxJDdmJw3Zyzxyh-1784" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kk1tNPxJDdmJw3Zyzxyh-1787" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=方正徐静蕾体;fontSource=http%3A%2F%2Fwww.ps3000.com%2Ffonts%2F%25E6%2596%25B9%25E6%25AD%25A3%25E9%259D%2599%25E8%2595%25BE%25E7%25AE%2580%25E4%25BD%2593_%25E5%25BE%2590%25E9%259D%2599%25E8%2595%25BE%25E6%2589%258B%25E5%2586%2599%25E4%25BD%2593.fon;fontSize=36;elbow=vertical;" parent="kk1tNPxJDdmJw3Zyzxyh-1779" source="kk1tNPxJDdmJw3Zyzxyh-1780" target="kk1tNPxJDdmJw3Zyzxyh-1785" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kk1tNPxJDdmJw3Zyzxyh-1780" value="数" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=方正徐静蕾体;fontSource=http%3A%2F%2Fwww.ps3000.com%2Ffonts%2F%25E6%2596%25B9%25E6%25AD%25A3%25E9%259D%2599%25E8%2595%25BE%25E7%25AE%2580%25E4%25BD%2593_%25E5%25BE%2590%25E9%259D%2599%25E8%2595%25BE%25E6%2589%258B%25E5%2586%2599%25E4%25BD%2593.fon;fontSize=36;fillColor=#007FFF;" parent="kk1tNPxJDdmJw3Zyzxyh-1779" vertex="1">
+          <mxGeometry x="70" y="390" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOnLiGUvBVXdEtmA3qcM-1771" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=方正徐静蕾体;fontSource=http%3A%2F%2Fwww.ps3000.com%2Ffonts%2F%25E6%2596%25B9%25E6%25AD%25A3%25E9%259D%2599%25E8%2595%25BE%25E7%25AE%2580%25E4%25BD%2593_%25E5%25BE%2590%25E9%259D%2599%25E8%2595%25BE%25E6%2589%258B%25E5%2586%2599%25E4%25BD%2593.fon;fontSize=36;elbow=vertical;" edge="1" parent="kk1tNPxJDdmJw3Zyzxyh-1779" source="kk1tNPxJDdmJw3Zyzxyh-1781" target="FOnLiGUvBVXdEtmA3qcM-1770">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="240" />
+              <mxPoint x="570" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOnLiGUvBVXdEtmA3qcM-1772" value="是否能被2整数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=36;fontFamily=方正徐静蕾体;" vertex="1" connectable="0" parent="FOnLiGUvBVXdEtmA3qcM-1771">
+          <mxGeometry x="-0.2308" y="2" relative="1" as="geometry">
+            <mxPoint x="132" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kk1tNPxJDdmJw3Zyzxyh-1781" value="自然数" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=方正徐静蕾体;fontSource=http%3A%2F%2Fwww.ps3000.com%2Ffonts%2F%25E6%2596%25B9%25E6%25AD%25A3%25E9%259D%2599%25E8%2595%25BE%25E7%25AE%2580%25E4%25BD%2593_%25E5%25BE%2590%25E9%259D%2599%25E8%2595%25BE%25E6%2589%258B%25E5%2586%2599%25E4%25BD%2593.fon;fontSize=36;fillColor=#278d25;shadow=0;" parent="kk1tNPxJDdmJw3Zyzxyh-1779" vertex="1">
+          <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kk1tNPxJDdmJw3Zyzxyh-1784" value="小数" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=方正徐静蕾体;fontSource=http%3A%2F%2Fwww.ps3000.com%2Ffonts%2F%25E6%2596%25B9%25E6%25AD%25A3%25E9%259D%2599%25E8%2595%25BE%25E7%25AE%2580%25E4%25BD%2593_%25E5%25BE%2590%25E9%259D%2599%25E8%2595%25BE%25E6%2589%258B%25E5%2586%2599%25E4%25BD%2593.fon;fontSize=36;fillColor=#4b7aaa;shadow=0;" parent="kk1tNPxJDdmJw3Zyzxyh-1779" vertex="1">
+          <mxGeometry x="420" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kk1tNPxJDdmJw3Zyzxyh-1785" value="分数" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=方正徐静蕾体;fontSource=http%3A%2F%2Fwww.ps3000.com%2Ffonts%2F%25E6%2596%25B9%25E6%25AD%25A3%25E9%259D%2599%25E8%2595%25BE%25E7%25AE%2580%25E4%25BD%2593_%25E5%25BE%2590%25E9%259D%2599%25E8%2595%25BE%25E6%2589%258B%25E5%2586%2599%25E4%25BD%2593.fon;fontSize=36;fillColor=#4e0e24;shadow=0;" parent="kk1tNPxJDdmJw3Zyzxyh-1779" vertex="1">
+          <mxGeometry x="420" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOnLiGUvBVXdEtmA3qcM-1770" value="奇偶数" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=方正徐静蕾体;fontSource=http%3A%2F%2Fwww.ps3000.com%2Ffonts%2F%25E6%2596%25B9%25E6%25AD%25A3%25E9%259D%2599%25E8%2595%25BE%25E7%25AE%2580%25E4%25BD%2593_%25E5%25BE%2590%25E9%259D%2599%25E8%2595%25BE%25E6%2589%258B%25E5%2586%2599%25E4%25BD%2593.fon;fontSize=36;fillColor=#278d25;shadow=0;" vertex="1" parent="kk1tNPxJDdmJw3Zyzxyh-1779">
+          <mxGeometry x="910" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOnLiGUvBVXdEtmA3qcM-1773" value="合素数" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=方正徐静蕾体;fontSource=http%3A%2F%2Fwww.ps3000.com%2Ffonts%2F%25E6%2596%25B9%25E6%25AD%25A3%25E9%259D%2599%25E8%2595%25BE%25E7%25AE%2580%25E4%25BD%2593_%25E5%25BE%2590%25E9%259D%2599%25E8%2595%25BE%25E6%2589%258B%25E5%2586%2599%25E4%25BD%2593.fon;fontSize=36;fillColor=#278d25;shadow=0;" vertex="1" parent="kk1tNPxJDdmJw3Zyzxyh-1779">
+          <mxGeometry x="920" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOnLiGUvBVXdEtmA3qcM-1774" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=方正徐静蕾体;fontSource=http%3A%2F%2Fwww.ps3000.com%2Ffonts%2F%25E6%2596%25B9%25E6%25AD%25A3%25E9%259D%2599%25E8%2595%25BE%25E7%25AE%2580%25E4%25BD%2593_%25E5%25BE%2590%25E9%259D%2599%25E8%2595%25BE%25E6%2589%258B%25E5%2586%2599%25E4%25BD%2593.fon;fontSize=36;elbow=vertical;" edge="1" parent="kk1tNPxJDdmJw3Zyzxyh-1779" target="FOnLiGUvBVXdEtmA3qcM-1773">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="242.5" as="sourcePoint" />
+            <mxPoint x="920" y="277.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="243" />
+              <mxPoint x="710" y="220" />
+              <mxPoint x="920" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOnLiGUvBVXdEtmA3qcM-1775" value="约数的数量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=36;fontFamily=方正徐静蕾体;" vertex="1" connectable="0" parent="FOnLiGUvBVXdEtmA3qcM-1774">
+          <mxGeometry x="0.2" y="-7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
